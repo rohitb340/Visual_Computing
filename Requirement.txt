@@ -1,0 +1,14 @@
+# Core Machine Learning
+torch
+torchvision
+
+# Data Processing
+numpy
+SimpleITK
+
+# Results & Visualization
+pandas
+matplotlib
+
+# Utilities
+glob2
